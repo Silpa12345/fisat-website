@@ -1,0 +1,15 @@
+<html>
+<head>
+<title>FISAT</title>
+</head>
+<body>
+<h1><b>FEDERAL INSTITUTE OF SCIENCE AND TECHNOLOGY</b></h1>
+</br>
+<p>Federal Institute of Science And Technology (FISAT) is a private self financing Engineering College, established and run by the Federal Bank Officers` Association Educational Society (FBOAES). </br>It is one of the top private Engineering Colleges in Kerala.T
+<form action="mailto:you@yourdomain.com">
+Name: <input name="Name" value="" size="10"><br>
+Email: <input name="Email" value="" size="10"><br>
+<center><input type="submit"></center>
+</form>
+</body>
+</html>
